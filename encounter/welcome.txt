@@ -1,0 +1,11 @@
+Welcome to the Orion trail!
+---------------------------------------------
+This is an interactive choice based game
+in which every decision matters.
+It is the year 4567 and every space
+pioneer worth his space salt is heading to
+Beatlejuice to mine for space Gold.
+Your goal is to make it to the fabled
+star without meeting a horrible demise.
+
+Good luck!
